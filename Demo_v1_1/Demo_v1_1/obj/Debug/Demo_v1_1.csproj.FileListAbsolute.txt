@@ -1,0 +1,10 @@
+C:\Users\Aytar\source\repos\Demo_v1_1\Demo_v1_1\obj\Debug\Demo_v1_1.csprojAssemblyReference.cache
+C:\Users\Aytar\source\repos\Demo_v1_1\Demo_v1_1\obj\Debug\Demo_v1_1.Form1.resources
+C:\Users\Aytar\source\repos\Demo_v1_1\Demo_v1_1\obj\Debug\Demo_v1_1.Properties.Resources.resources
+C:\Users\Aytar\source\repos\Demo_v1_1\Demo_v1_1\obj\Debug\Demo_v1_1.csproj.GenerateResource.cache
+C:\Users\Aytar\source\repos\Demo_v1_1\Demo_v1_1\obj\Debug\Demo_v1_1.csproj.CoreCompileInputs.cache
+C:\Users\Aytar\source\repos\Demo_v1_1\Demo_v1_1\bin\Debug\Demo_v1_1.exe.config
+C:\Users\Aytar\source\repos\Demo_v1_1\Demo_v1_1\bin\Debug\Demo_v1_1.exe
+C:\Users\Aytar\source\repos\Demo_v1_1\Demo_v1_1\bin\Debug\Demo_v1_1.pdb
+C:\Users\Aytar\source\repos\Demo_v1_1\Demo_v1_1\obj\Debug\Demo_v1_1.exe
+C:\Users\Aytar\source\repos\Demo_v1_1\Demo_v1_1\obj\Debug\Demo_v1_1.pdb
