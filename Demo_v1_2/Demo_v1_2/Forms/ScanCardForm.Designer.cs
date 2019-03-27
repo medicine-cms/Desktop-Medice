@@ -222,7 +222,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtRFID);
             this.Name = "ScanCard";
-            this.Text = "Form1";
+            this.Text = "Hasta Bilgileri";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

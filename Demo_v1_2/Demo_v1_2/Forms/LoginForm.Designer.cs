@@ -92,8 +92,8 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtPass);
             this.Controls.Add(this.txtUser);
-            this.Name = "Login";
-            this.Text = "Login";
+            this.Name = "Giriş";
+            this.Text = "Giriş Yap";
             this.ResumeLayout(false);
             this.PerformLayout();
 

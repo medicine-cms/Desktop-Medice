@@ -178,8 +178,8 @@
             this.Controls.Add(this.btnNext);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtIlac);
-            this.Name = "Form2";
-            this.Text = "Form2";
+            this.Name = "PrescribeForm";
+            this.Text = "Reçete Yaz";
             this.ResumeLayout(false);
             this.PerformLayout();
 
